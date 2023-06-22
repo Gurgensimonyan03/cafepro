@@ -1,0 +1,728 @@
+Uri: http://themes.iamabdus.com/restaurex/1.0/
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\index.htm
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/404-page.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\404-page.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/about-us.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\about-us.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/css/restaurex.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\css\restaurex.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/banner-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/banner-2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/banner-3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/banner-4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/footer.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\footer.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/page-title-img.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\page-title-img.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/pattern-1.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\pattern-1.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/pattern-2.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\pattern-2.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/testimonial.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\testimonial.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/background/testmonial.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\background\testmonial.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/brands/customer-support.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\brands\customer-support.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/brands/money-back.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\brands\money-back.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/brands/security.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\brands\security.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/brands/shipping.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\brands\shipping.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/favicon.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\favicon.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/bowl.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\bowl.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/bread.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\bread.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/chicken.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\chicken.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/fruits.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\fruits.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/menu-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\menu-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/menu-2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\menu-2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/menu-3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\menu-3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-5.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-5.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-6.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-6.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-sm-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-sm-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-sm-2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-sm-2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/popular-sm-3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\popular-sm-3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/foods/vegetables.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\foods\vegetables.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-5.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/gallery/gallery-6.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\gallery\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/logo-2.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\logo-2.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/logo-3.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\logo-3.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/404.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\404.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/about-img1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\about-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/about-img2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\about-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/certificate1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\certificate1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/certificate2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\certificate2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/certificate3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\certificate3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/client.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\client.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/client2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\client2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/client3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\client3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/coocker-img-1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\coocker-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/coocker-img1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\coocker-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/coocker-img2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\coocker-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/coocker-img3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\coocker-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img5.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img5.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-img6.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-img6.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img10.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img10.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img11.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img11.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img12.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img12.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img5.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img5.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img6.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img6.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img7.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img7.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img8.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img8.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/news-sm-img9.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\news-sm-img9.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img1.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img2.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img3.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img4.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img4.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img5.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img5.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/pages/services-img6.jpg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\pages\services-img6.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/patterns/pattern1.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\patterns\pattern1.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/patterns/pattern2.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\patterns\pattern2.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/patterns/pattern3.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\patterns\pattern3.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/patterns/pattern4.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\patterns\pattern4.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/patterns/pattern5.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\patterns\pattern5.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/img/toggle.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\img\toggle.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/js/restaurex.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\js\restaurex.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/optionswitch.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\optionswitch.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/optionswitcher.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\optionswitcher.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/pattern1.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\pattern1.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/pattern2.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\pattern2.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/pattern3.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\pattern3.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/pattern4.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\pattern4.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/pattern5.png
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\pattern5.png
+Content Type: image/png
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/taf-settings.svg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\taf-settings.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/options/taf-tiems.svg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\options\taf-tiems.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/animate/animate.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\animate\animate.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/daterangepicker/css/daterangepicker.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\daterangepicker\css\daterangepicker.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/daterangepicker/js/daterangepicker.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\daterangepicker\js\daterangepicker.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/daterangepicker/js/moment.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\daterangepicker\js\moment.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/fonts/ElegantIcons.eot
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/fonts/ElegantIcons.eot?
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/fonts/ElegantIcons.svg
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/fonts/ElegantIcons.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/fonts/ElegantIcons.woff
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/elegant-font/style.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\elegant-font\style.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/fancybox/fancyMorph.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\fancybox\fancyMorph.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/fancybox/jquery.fancybox.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/fancybox/jquery.fancybox.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/css/font-awesome.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/images-loaded/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\images-loaded\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/isotope/isotope.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\isotope\isotope.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/isotope/isotope.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\isotope\isotope.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/jquery/jquery.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/no-ui-slider/nouislider.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\no-ui-slider\nouislider.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/owl-carousel/owl.carousel.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/owl-carousel/owl.carousel.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/owl-carousel/owl.theme.default.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/select2/css/select2.min.css
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/select2/js/select2.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\select2\js\select2.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/smoothscroll/SmoothScroll.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\smoothscroll\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/syotimer/jquery.syotimer.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\syotimer\jquery.syotimer.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/assets/plugins/velocity/velocity.min.js
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\assets\plugins\velocity\velocity.min.js
+Content Type: application/javascript
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-grid-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-grid-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-grid-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-grid-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-grid-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-grid-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-list-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-list-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-list-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-list-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-list-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-list-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-single-fullwidth
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-single-fullwidth-1.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-single-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-single-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-single-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-single-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/blog-single-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\blog-single-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/cart-page.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\cart-page.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/checkout.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\checkout.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/checkout2.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\checkout2.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/checkout3.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\checkout3.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/coming-soon.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\coming-soon.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/components.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\components.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/confirmation.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\confirmation.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/contact-us.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\contact-us.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/faq.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\faq.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/gallery.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\gallery.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/index.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\index.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-grid-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-grid-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-grid-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-grid-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-grid-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-grid-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-list-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-list-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-list-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-list-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-list-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-list-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-single-fullwidth.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-single-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-single-left-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-single-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/menu-single-right-sidebar.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\menu-single-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/our-chefs.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\our-chefs.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/payment.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\payment.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/reservation.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\reservation.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/service-detail.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\service-detail.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/services.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\services.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/shipping.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\shipping.html
+Content Type: text/html
+
+Uri: http://themes.iamabdus.com/restaurex/1.0/single-chef.html
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\restaurex\1.0\single-chef.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Amatic+SC
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Berkshire+Swash
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,500i
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400,500,600
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZyzwprpvBS1izr_vOECuSa.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\amaticsc\v24\TUZyzwprpvBS1izr_vOECuSa.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/berkshireswash/v16/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\berkshireswash\v16\ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk&callback=initMap
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-71155940-19
+File Name: C:\Users\User\OneDrive\Рабочий стол\ASDF\themes.iamabdus.com\gtag\js
+Content Type: application/javascript
+
